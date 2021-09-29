@@ -1,6 +1,6 @@
 # AstroMusicPlayer
-## 🚀 Minhas Skills
-[![FloBonita](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact&theme=default)](https://github.com/FloBonita/AstroMusicPlayer/)
+## 🚀 Skills
+[![FloBonita](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact&theme=radical)](https://github.com/FloBonita/AstroMusicPlayer/)
 
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> 
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-64/figma-3628771-3030133.png" alt="c"/></code>
