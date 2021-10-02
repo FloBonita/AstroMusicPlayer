@@ -3,19 +3,12 @@
 [![FloBonita](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact&theme=radical)](https://github.com/FloBonita/AstroMusicPlayer/)
 
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /><a href="https://www.figma.com/file/OWHhOz9WaMQj87fO9RColt/PlayerMusic?node-id=0%3A1"><img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" /></a><img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" /><a href="https://trello.com/b/R7hzjttr/potatos"><img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" /></a>
-<!--
-**Aplicações e Dados**
 
-  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+**Aplicações e Dados**
+  
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=Flutter)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
-  ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)  
 
 **Utilidades**
 
@@ -26,17 +19,14 @@
 
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket)
-  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-  ![Travis](https://img.shields.io/badge/-Travis-333333?style=flat&logo=travis)
+  
 
 **Ferramentas de Desenvolvimento**
 
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)  
   ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
-  ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd&logoColor=007ACC)-->
+  
 
 
 ## 🌈 Contribuidores<br>
@@ -45,15 +35,39 @@
   <tr>
     <td align="center">
       <a href="#">
-        <img src="https://scontent.fcgh23-1.fna.fbcdn.net/v/t39.30808-6/fr/cp0/e15/q65/241657557_3017404508539992_4810359102052640298_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=85a577&efg=eyJpIjoidCJ9&_nc_ohc=w7qwiDQu_3wAX9ujuME&tn=P6OLuRRAZnz23Ykk&_nc_ht=scontent.fcgh23-1.fna&oh=b5973f75df1a4965ea80c7b41df033c4&oe=6158F948" width="100px;" alt="Foto do Iuri Silva no GitHub"/><br>
+        <img src="https://scontent.fcgh23-1.fna.fbcdn.net/v/t39.30808-6/fr/cp0/e15/q65/241657557_3017404508539992_4810359102052640298_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=85a577&efg=eyJpIjoidCJ9&_nc_ohc=w7qwiDQu_3wAX9ujuME&tn=P6OLuRRAZnz23Ykk&_nc_ht=scontent.fcgh23-1.fna&oh=b5973f75df1a4965ea80c7b41df033c4&oe=6158F948" width="100px;" alt="Foto da "/><br>
         <sub>
-          <b>Pardo</b>
+          <b>Diane</b>
         </sub>
       </a>
     </td>
     <td align="center">
       <a href="#">
-        <img src="https://scontent.fcgh2-1.fna.fbcdn.net/v/t31.18172-8/13640945_1105578349536245_8918041320072810827_o.jpg?_nc_cat=105&ccb=1-5&_nc_sid=a9b1d2&_nc_eui2=AeGhsZ_xnWu21WkN_DW_Yc4s1y_THMAeuE7XL9McwB64Tp8nuZ-IzMMILmAzH3tHCYGSsubbbas6Vd8mEcq4gIe_&_nc_ohc=cuxIlEUvqzQAX-FQXFy&_nc_ht=scontent.fcgh2-1.fna&oh=88abbc4bf7e9b0289b4d3d87a2ccaff0&oe=617B3A23" width="100px;" alt="Foto do Marcelo Santos"/><br>
+        <img src="https://scontent.fcgh2-1.fna.fbcdn.net/v/t1.18169-9/11095079_1034521893308558_2754572611943174367_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=8bfeb9&_nc_eui2=AeEMLlyqvU3EmWGHpeisKjsPzAN_rczpamjMA3-tzOlqaBaUQZlHG1VerjtQx8ZmM3bCNBGUVkF3GL6TuU5IlNgd&_nc_ohc=dX81N7-afrEAX-LVvcL&_nc_ht=scontent.fcgh2-1.fna&oh=8ba4b37bf0f26eb95753fd74486f115b&oe=617E9031" width="100px;" alt="Foto da "/><br>
+        <sub>
+          <b>Dayara</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="#">
+        <img src="https://scontent.fcgh2-1.fna.fbcdn.net/v/t1.6435-9/74632397_2407450932693391_4052974154050174976_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeGTPf3_g0IwBiTrWhFDHG_uty1VrMA3z0i3LVWswDfPSPffgwxA-S6jQTBLww6cfyT-CilvsfLsjZBjy6u6pjFX&_nc_ohc=qVQswCbvyJ0AX-4bWkc&_nc_ht=scontent.fcgh2-1.fna&oh=1d889c755c5061278c0b6ff6e43195ae&oe=617F2274" width="100px;" alt="Foto do Flavio"/><br>
+        <sub>
+          <b>Flavio</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="#">
+        <img src="https://scontent.fcgh23-1.fna.fbcdn.net/v/t1.6435-1/c0.0.160.160a/p160x160/66528653_1470839983074517_8379153832088698880_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=7206a8&_nc_eui2=AeEp3ho48Re2oUiwJCg3ebl1wxVUnLEzo_zDFVScsTOj_NpGN78Xd6CNqLdAJvJFVYp8VV7OMCZEhjTOd7mLJG9B&_nc_ohc=In15GiGZ0fsAX9sOnge&_nc_ht=scontent.fcgh23-1.fna&oh=aaaa02a8a20aeb105729fecce0bcad57&oe=617F96D3" width="100px;" alt="Foto do Henrique "/><br>
+        <sub>
+          <b>Henrique</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="#">
+        <img src="https://i.pinimg.com/originals/40/58/61/4058618af0baa000b7ee639418a61714.jpg" width="100px;" alt="Foto da "/><br>
         <sub>
           <b>Panda</b>
         </sub>
@@ -61,33 +75,9 @@
     </td>
     <td align="center">
       <a href="#">
-        <img src="https://static.wikia.nocookie.net/ursossemcurso/images/9/94/39ebd0ffba418c90c9886c96d92ab8f6.jpg/revision/latest?cb=20200420001447&path-prefix=pt-br" width="100px;" alt="Foto da Vanessa Swerts"/><br>
+        <img src="https://scontent.fcgh2-1.fna.fbcdn.net/v/t1.6435-9/131130723_4064736650206516_4821634501055049104_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeEt8ylLKf4KaRdv6qmpZvTCizYt3rMrl7eLNi3esyuXtz5Wzkauq1HZiRnyIleIhTZ6Wt3iYzK81hZMBcdImPI7&_nc_ohc=xfmaWmuXukcAX9rWSKz&_nc_ht=scontent.fcgh2-1.fna&oh=2f0da90539ba22ffe653182897f635e7&oe=617D9870" width="100px;" alt="Foto do Sergio"/><br>
         <sub>
-          <b>Polar</b>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="#">
-        <img src="https://i.pinimg.com/originals/a0/10/42/a010424aba87eb38382f72459f3bf1aa.jpg" width="100px;" alt="Foto do Iuri Silva no GitHub"/><br>
-        <sub>
-          <b>Pardo</b>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="#">
-        <img src="https://i.pinimg.com/originals/40/58/61/4058618af0baa000b7ee639418a61714.jpg" width="100px;" alt="Foto do Marcelo Santos"/><br>
-        <sub>
-          <b>Panda</b>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="#">
-        <img src="https://static.wikia.nocookie.net/ursossemcurso/images/9/94/39ebd0ffba418c90c9886c96d92ab8f6.jpg/revision/latest?cb=20200420001447&path-prefix=pt-br" width="100px;" alt="Foto da Vanessa Swerts"/><br>
-        <sub>
-          <b>Polar</b>
+          <b>Sergio</b>
         </sub>
       </a>
     </td>
