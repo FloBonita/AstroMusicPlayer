@@ -68,14 +68,7 @@ $(document).ready(function(){
   font-size: 20px;
   margin-top: 10px;
 }
-.astro{
-height: 366px;
-width: 412px;
-left: 458px;
-top: 8480px;
-border-radius: 0px;
-position:absolute;
-} 
+
  .dsp{
    display: block;
  }
@@ -98,7 +91,102 @@ a:hover {
 background-color: rgba(0, 0, 0, 0.712);
 }
 
- 
+
+footer .div-footer{
+  display: flex;
+  width: 85%;
+  margin: 0 auto;
+  padding: 50px 30px 0;
+  flex-wrap: wrap;
+}
+
+footer .integrantes{
+  width: 80%;
+  margin: 0 auto;
+  padding-bottom: 30px;
+}
+
+.div-contato, .div-redes, .astro{
+  flex: 1 1 150px;
+  height: fit-content;
+}
+
+.div-redes{
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.div-redes p{
+  width: 100%;
+  margin-bottom: 20px;
+  height: fit-content;
+  text-align: center;
+
+}
+
+.div-redes img{
+  width: 50px;
+  height: 50px;
+}
+
+.astro{
+  position: relative;
+  top: -200px;
+}
+
+@media only screen and (max-width:1024px){
+  .div-redes img{
+    width: 35px;
+    height: 35px;
+  }
+
+  .div-redes p{
+    font-size: 16px;
+    
+  }
+  .astro{
+    top: -150px;
+  }
+
+}
+
+@media only screen and (max-width:768px){
+  .div-redes p{
+    font-size: 18px;
+    
+  }
+
+  .astro{
+    top: -120px;
+  }
+}
+
+@media only screen and (max-width:620px){
+  footer .div-footer{
+    flex-direction: column;
+    align-items: center;
+  
+  
+  }
+
+  .div-contato{
+    width: 80%;
+  }
+
+  
+  .div-redes p{
+    font-size: 18px;
+
+  }
+
+  .astro{
+    position: inherit;
+    width: 80%;
+    border: 1px solid;
+    margin-bottom: 30px;
+  }
+}
 </style>
 
                      <title>Astro!</title>
@@ -176,32 +264,34 @@ background-color: rgba(0, 0, 0, 0.712);
     </svg>
   </div>
       <!--**********************************************************************************************************-->
+
+      
         <div class="columns bgcolor is-size-12-mobile">         
           <div class="columns is-multiline rows is-centered is-full">
-            <div id="playlist01" class="column is-9-mobile is-10-tablet is-10-desktop ">
+            <div id="playlist01" class="column is-9-mobile is-5-tablet is-10-desktop br">
               <div class="card is-shadowless card-content has-background-grey-dark has-text-centered box size"> 
                 <span class="title is-4 is-capitalized">
                   <h1 class="has-text-grey-light txt">KPOP</h1>                     
-                </span>     
-                <div class="card-content has-background-grey-dark">      
-                  <div id="cincopa_0c52f2">...</div><script type="text/javascript">
-                    var cpo = []; cpo["_object"] ="cincopa_0c52f2"; cpo["_fid"] = "AEJAa2-SBGlo";
+                </span>          
+                <div class="card-content has-background-grey-dark"> 
+                  <div id="cincopa_3d9f79">...</div><script type="text/javascript">
+                    var cpo = []; cpo["_object"] ="cincopa_3d9f79"; cpo["_fid"] = "A4JAj1OAWOOB";
                     var _cpmp = _cpmp || []; _cpmp.push(cpo);
                     (function() { var cp = document.createElement("script"); cp.type = "text/javascript";
                     cp.async = true; cp.src = "https://rtcdn.cincopa.com/libasync.js";
                     var c = document.getElementsByTagName("script")[0];
                     c.parentNode.insertBefore(cp, c); })(); </script>
-                </div>               
+                </div>
               </div> 
             </div>
-            <div id="playlist02" class="column is-9-mobile is-10-tablet is-10-desktop ">
+            <div id="playlist02" class="column is-9-mobile is-5-tablet is-10-desktop br">
               <div class="card is-shadowless card-content has-background-grey-dark has-text-centered box size"> 
                 <span class="title is-4 is-capitalized">
                   <h1 class="has-text-grey-light txt">K-VIBEZ</h1>                     
                 </span>          
                 <div class="card-content has-background-grey-dark"> 
-                  <div id="cincopa_7b431b">...</div><script type="text/javascript">
-                    var cpo = []; cpo["_object"] ="cincopa_7b431b"; cpo["_fid"] = "AsNA51efBK2o";
+                  <div id="cincopa_2a8f02">...</div><script type="text/javascript">
+                    var cpo = []; cpo["_object"] ="cincopa_2a8f02"; cpo["_fid"] = "AIBAV2-NW6yA";
                     var _cpmp = _cpmp || []; _cpmp.push(cpo);
                     (function() { var cp = document.createElement("script"); cp.type = "text/javascript";
                     cp.async = true; cp.src = "https://rtcdn.cincopa.com/libasync.js";
@@ -344,8 +434,8 @@ background-color: rgba(0, 0, 0, 0.712);
                   <h1 class="has-text-grey-light txt">FEMALE RAP POWER</h1>                     
                 </span>          
                 <div class="card-content has-background-grey-dark"> 
-                  <div id="cincopa_482f92">...</div><script type="text/javascript">
-                    var cpo = []; cpo["_object"] ="cincopa_482f92"; cpo["_fid"] = "A0AAf2urByRp";
+                  <div id="cincopa_677d8a">...</div><script type="text/javascript">
+                    var cpo = []; cpo["_object"] ="cincopa_677d8a"; cpo["_fid"] = "AkJAJ3-XXq_O";
                     var _cpmp = _cpmp || []; _cpmp.push(cpo);
                     (function() { var cp = document.createElement("script"); cp.type = "text/javascript";
                     cp.async = true; cp.src = "https://rtcdn.cincopa.com/libasync.js";
@@ -357,24 +447,24 @@ background-color: rgba(0, 0, 0, 0.712);
     </section>
 
 
-    <footer class="footer bgcolor is-size-1" style="height: 100%;">
-      <div class="box2">
-        <div class="is-size-3">
-          <img src="img/teste.png" alt="teste" width="300px" height="300px" style="margin-top: 100px;margin-left: 90px;">
+    <footer class="bgcolor" >
+      <div class="div-footer">
+        <div class="div-contato">
+          <img src="img/teste.png" alt="teste" >
         </div>
-        <div class="is-size-3 astro">
+        <div class=" astro">
           <img src="img/sentado2.png" alt="sentado">
         </div>
-        <div class="is-size-3" style="margin-left: 400px;">
-           <p class="txt has-text-centered" >Siga Nos Nas Redes Sociais</p>
+        <div  class="div-redes">
+           <p class="txt " >Siga Nos Nas Redes Sociais</p>
           
-           <img src="img/yt.png" alt="youtube logo" style="width: 100px; height: 100px; margin-left: 70px; float: left; margin-top: 20px;" >
-           <img src="img/fb.png" alt="facebook logo" style="width: 80px; height: 80px; margin-left: 50px; float: left; margin-top: 20px;" >
-           <img src="img/insta.png" alt="instagram logo" style="width: 80px; height: 80px; margin-left: 50px; float: left; margin-top: 20px;" >
+           <img src="img/yt.png" alt="youtube logo" style="" >
+           <img src="img/fb.png" alt="facebook logo" style="" >
+           <img src="img/insta.png" alt="instagram logo" style="" >
           
-        </div>
+       </div>
       </div>
-      <div>
+      <div class="integrantes">
         <p style="text-align: center; margin-top: 50px; font-family: Poppins; font-size: 20px; color: #b9b9ba">Projeto desenvolvido pelo 4º semestre da universidade UNINOVE
           pelos alunos:</p>
           <p style="list-style-type: none; font-size: 15px;" class="listaCerta has-text-centered is-small">
