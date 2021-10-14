@@ -2,7 +2,7 @@
 ## 🚀 Skills
 [![FloBonita](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact&theme=radical)](https://github.com/FloBonita/AstroMusicPlayer/)
 
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /><a href="https://www.figma.com/file/OWHhOz9WaMQj87fO9RColt/PlayerMusic?node-id=0%3A1"><img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" /></a><img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" /><a href="https://trello.com/b/R7hzjttr/potatos"><img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /><a href="https://www.figma.com/file/OWHhOz9WaMQj87fO9RColt/PlayerMusic?node-id=0%3A1"><img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" /></a><a href="https://astromusicplayer.tk/"><img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/></a><a href="https://trello.com/b/R7hzjttr/potatos"><img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" /></a>
 
 **Aplicações e Dados**
   
