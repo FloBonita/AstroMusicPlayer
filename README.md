@@ -30,7 +30,7 @@
   <tr>
     <td align="center">
       <a href="#">
-        <img src="https://scontent.fcgh23-1.fna.fbcdn.net/v/t39.30808-6/fr/cp0/e15/q65/241657557_3017404508539992_4810359102052640298_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=85a577&efg=eyJpIjoidCJ9&_nc_ohc=w7qwiDQu_3wAX9ujuME&tn=P6OLuRRAZnz23Ykk&_nc_ht=scontent.fcgh23-1.fna&oh=b5973f75df1a4965ea80c7b41df033c4&oe=6158F948" width="100px;" alt="Foto da "/><br>
+        <img src="https://i.pinimg.com/originals/19/d1/6a/19d16abbd0ad71e3c0bde577ad163717.jpg" width="100px;" alt="Foto da Diane"/><br>
         <sub>
           <b>Diane</b>
         </sub>
@@ -38,7 +38,7 @@
     </td>
     <td align="center">
       <a href="#">
-        <img src="https://scontent.fcgh2-1.fna.fbcdn.net/v/t1.18169-9/11095079_1034521893308558_2754572611943174367_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=8bfeb9&_nc_eui2=AeEMLlyqvU3EmWGHpeisKjsPzAN_rczpamjMA3-tzOlqaBaUQZlHG1VerjtQx8ZmM3bCNBGUVkF3GL6TuU5IlNgd&_nc_ohc=dX81N7-afrEAX-LVvcL&_nc_ht=scontent.fcgh2-1.fna&oh=8ba4b37bf0f26eb95753fd74486f115b&oe=617E9031" width="100px;" alt="Foto da "/><br>
+        <img src="https://scontent.fcgh2-1.fna.fbcdn.net/v/t1.18169-9/11095079_1034521893308558_2754572611943174367_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=8bfeb9&_nc_eui2=AeEMLlyqvU3EmWGHpeisKjsPzAN_rczpamjMA3-tzOlqaBaUQZlHG1VerjtQx8ZmM3bCNBGUVkF3GL6TuU5IlNgd&_nc_ohc=dX81N7-afrEAX-LVvcL&_nc_ht=scontent.fcgh2-1.fna&oh=8ba4b37bf0f26eb95753fd74486f115b&oe=617E9031" width="100px;" alt="Foto da Dayara"/><br>
         <sub>
           <b>Dayara</b>
         </sub>
@@ -54,7 +54,7 @@
     </td>
     <td align="center">
       <a href="#">
-        <img src="https://scontent.fcgh23-1.fna.fbcdn.net/v/t1.6435-1/c0.0.160.160a/p160x160/66528653_1470839983074517_8379153832088698880_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=7206a8&_nc_eui2=AeEp3ho48Re2oUiwJCg3ebl1wxVUnLEzo_zDFVScsTOj_NpGN78Xd6CNqLdAJvJFVYp8VV7OMCZEhjTOd7mLJG9B&_nc_ohc=In15GiGZ0fsAX9sOnge&_nc_ht=scontent.fcgh23-1.fna&oh=aaaa02a8a20aeb105729fecce0bcad57&oe=617F96D3" width="100px;" alt="Foto do Henrique "/><br>
+        <img src="https://scontent.fcgh23-1.fna.fbcdn.net/v/t1.6435-1/c0.0.160.160a/p160x160/66528653_1470839983074517_8379153832088698880_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=7206a8&_nc_eui2=AeEp3ho48Re2oUiwJCg3ebl1wxVUnLEzo_zDFVScsTOj_NpGN78Xd6CNqLdAJvJFVYp8VV7OMCZEhjTOd7mLJG9B&_nc_ohc=In15GiGZ0fsAX9sOnge&_nc_ht=scontent.fcgh23-1.fna&oh=aaaa02a8a20aeb105729fecce0bcad57&oe=617F96D3" width="100px;" alt="Foto do Henrique"/><br>
         <sub>
           <b>Henrique</b>
         </sub>
@@ -62,9 +62,9 @@
     </td>
     <td align="center">
       <a href="#">
-        <img src="https://i.pinimg.com/originals/40/58/61/4058618af0baa000b7ee639418a61714.jpg" width="100px;" alt="Foto da "/><br>
+        <img src="https://media-exp1.licdn.com/dms/image/C4D03AQHraFPQ_BDfLA/profile-displayphoto-shrink_800_800/0/1611338546987?e=1639612800&v=beta&t=p9pUi5Wj7-SPb7JwqO15xmDO9merWhPBsp8PAAiB9lk" width="100px;" alt="Foto da "/><br>
         <sub>
-          <b>Panda</b>
+          <b>Caique Millan</b>
         </sub>
       </a>
     </td>
@@ -73,6 +73,48 @@
         <img src="https://scontent.fcgh2-1.fna.fbcdn.net/v/t1.6435-9/131130723_4064736650206516_4821634501055049104_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeEt8ylLKf4KaRdv6qmpZvTCizYt3rMrl7eLNi3esyuXtz5Wzkauq1HZiRnyIleIhTZ6Wt3iYzK81hZMBcdImPI7&_nc_ohc=xfmaWmuXukcAX9rWSKz&_nc_ht=scontent.fcgh2-1.fna&oh=2f0da90539ba22ffe653182897f635e7&oe=617D9870" width="100px;" alt="Foto do Sergio"/><br>
         <sub>
           <b>Sergio</b>
+        </sub>
+      </a>
+    </td>    
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="#">
+        <img src="https://i.pinimg.com/236x/c5/ee/95/c5ee95e45c6f6d9042962da4b5915296.jpg" width="100px;" alt="Foto da Ingrid"/><br>
+        <sub>
+          <b>ingrid</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="#">
+        <img src="" width="100px;" alt="Foto da Ingrid"/><br>
+        <sub>
+          <b>ingrid</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="#">
+        <img src="" width="100px;" alt="Foto da Ingrid"/><br>
+        <sub>
+          <b>ingrid</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="#">
+        <img src="" width="100px;" alt="Foto da Ingrid"/><br>
+        <sub>
+          <b>ingrid</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="#">
+        <img src="" width="100px;" alt="Foto da Ingrid"/><br>
+        <sub>
+          <b>ingrid</b>
         </sub>
       </a>
     </td>
