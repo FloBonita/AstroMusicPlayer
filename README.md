@@ -62,9 +62,9 @@
     </td>
     <td align="center">
       <a href="#">
-        <img src="https://i.pinimg.com/originals/40/58/61/4058618af0baa000b7ee639418a61714.jpg" width="100px;" alt="Foto da "/><br>
+        <img src="https://media-exp1.licdn.com/dms/image/C4D03AQHraFPQ_BDfLA/profile-displayphoto-shrink_800_800/0/1611338546987?e=1639612800&v=beta&t=p9pUi5Wj7-SPb7JwqO15xmDO9merWhPBsp8PAAiB9lk" width="100px;" alt="Foto da "/><br>
         <sub>
-          <b>Panda</b>
+          <b>Caique</b>
         </sub>
       </a>
     </td>
