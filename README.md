@@ -88,9 +88,9 @@
     </td>
     <td align="center">
       <a href="#">
-        <img src="" width="100px;" alt="Foto da Ingrid"/><br>
+        <img src="https://media-exp1.licdn.com/dms/image/C4E03AQFBDIVKKj7Fcw/profile-displayphoto-shrink_200_200/0/1634255720783?e=1639612800&v=beta&t=764i7859jP_Cqewf6inFvPPA3M9DRlKxtcMfPR8ciXE" width="100px;" alt="Foto do Victor"/><br>
         <sub>
-          <b>ingrid</b>
+          <b>Victor</b>
         </sub>
       </a>
     </td>
