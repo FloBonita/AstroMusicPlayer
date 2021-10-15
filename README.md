@@ -96,9 +96,9 @@
     </td>
     <td align="center">
       <a href="#">
-        <img src="" width="100px;" alt="Foto da Ingrid"/><br>
+        <img src="https://media-exp1.licdn.com/dms/image/C5603AQFsGO82KbEtkg/profile-displayphoto-shrink_800_800/0/1634249982676?e=1639612800&v=beta&t=UX9JV0wp9qiC0_0RgZOb7gxXqLZPzzzsD8ktKcOKfJE" width="100px;" alt="Foto da Jacqueline"/><br>
         <sub>
-          <b>ingrid</b>
+          <b>Jacqueline</b>
         </sub>
       </a>
     </td>
@@ -120,6 +120,47 @@
     </td>
   </tr>
 </table>
+<table>
+  <tr>
+    <a href="https://pastebin.com/7zrhY9ub"><p>NOMES E RA'S</p></a>
+    <td>
+      <p>ANDRÉ AUGUSTO MARQUES</p><p>920110931</p>
+    </td>
+     <td>
+      <p>CAÍQUE MILAN ARAÚJO</p><p>920120809</p>
+    </td>
+     <td>
+      <p>DIANE DE SOUZA FUGAS</p><p>920103508</p>
+    </td>
+     <td>
+      <p>DAYARA MARQUES DA SILVA REIS </p><p>920122844</p>
+    </td>
+     <td>
+      <p>FABIO CONCEIÇÃO SILVA</p><p>920105347</p>
+    </td>
+     <td>
+      <p>HENRIQUE DUTRA TEIXEIRA</p><p>920113454</p>
+    </td>    
+  </tr>
+  <tr>
+    <td>
+      <p>INGRID DOMENICALI SATO LIMA DOS SANTOS</p><p>920118078</p>
+    </td>
+    <td>
+      <p>FLÁVIO MARTINS DE OLIVEIRA JÚNIOR</p><p>920118587</p>
+    </td>
+    <td>
+      <p>JACQUELINE DE JESUS NOGUEIRA</p><p>920102612</p>
+    </td>
+    <td>
+      <p>SÉRGIO DE SOUZA LEMOS</p><p>920103473</p>
+    </td>
+    <td>
+      <p>VICTOR AUGUSTO MAZZA RONCHI</p><p>920123341</p>
+    </td>
+  </tr>
+  
 
+</table>
 
  
