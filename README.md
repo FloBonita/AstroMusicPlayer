@@ -104,9 +104,9 @@
     </td>
     <td align="center">
       <a href="#">
-        <img src="" width="100px;" alt="Foto da Ingrid"/><br>
+        <img src="https://scontent.fgru16-1.fna.fbcdn.net/v/t1.6435-9/240887673_1286952935093165_4496525023150629514_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeG6ukpbjxjxVOPvBFTX1QRCNakFYxYOp3M1qQVjFg6nc-IDvi_DHQZSsCI7gazD9bIXw3htyQV3fA9MMoCvhl-P&_nc_ohc=2xGIj1adazgAX8mc2E-&_nc_ht=scontent.fgru16-1.fna&oh=e278a354a8927fa578a6d370170cd0d1&oe=618FEFD8" width="100px;" alt="Foto do fábio"/><br>
         <sub>
-          <b>ingrid</b>
+          <b>Fábio</b>
         </sub>
       </a>
     </td>
