@@ -80,7 +80,7 @@
   <tr>
     <td align="center">
       <a href="#">
-        <img src="https://i.pinimg.com/236x/c5/ee/95/c5ee95e45c6f6d9042962da4b5915296.jpg" width="100px;" alt="Foto da Ingrid"/><br>
+        <img src="https://i.pinimg.com/564x/f0/df/b3/f0dfb366747decfd8d3e70177a813373.jpg" width="100px;" alt="Foto da Ingrid"/><br>
         <sub>
           <b>ingrid</b>
         </sub>
