@@ -112,9 +112,9 @@
     </td>
     <td align="center">
       <a href="#">
-        <img src="" width="100px;" alt="Foto da Ingrid"/><br>
+        <img src="https://scontent.fcgh2-1.fna.fbcdn.net/v/t1.6435-9/33151666_1760077524086205_4313040582806077440_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=174925&_nc_ohc=5XVZrXyzv74AX9bdBLc&tn=4PfIJ8U9xPIHW2Uk&_nc_ht=scontent.fcgh2-1.fna&oh=9323e58eef2cc9096973e8a614777029&oe=619DA0BD" width="100px;" alt="Foto do Andre"/><br>
         <sub>
-          <b>ingrid</b>
+          <b>Andre</b>
         </sub>
       </a>
     </td>
